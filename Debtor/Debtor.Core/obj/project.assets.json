@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Debtor.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Debtor.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Debtor.Core.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Debtor.Core/1.0.0": {
-      "type": "project",
-      "path": "../Debtor.Core/Debtor.Core.csproj",
-      "msbuildProject": "../Debtor.Core/Debtor.Core.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Debtor.Core >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\fujitsu\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fujitsu\\source\\repos\\Debtor\\Debtor.csproj",
-      "projectName": "Debtor",
-      "projectPath": "C:\\Users\\fujitsu\\source\\repos\\Debtor\\Debtor.csproj",
+      "projectUniqueName": "C:\\Users\\fujitsu\\source\\repos\\Debtor.Core\\Debtor.Core.csproj",
+      "projectName": "Debtor.Core",
+      "projectPath": "C:\\Users\\fujitsu\\source\\repos\\Debtor.Core\\Debtor.Core.csproj",
       "packagesPath": "C:\\Users\\fujitsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fujitsu\\source\\repos\\Debtor\\obj\\",
+      "outputPath": "C:\\Users\\fujitsu\\source\\repos\\Debtor.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,11 +38,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\fujitsu\\source\\repos\\Debtor.Core\\Debtor.Core.csproj": {
-              "projectPath": "C:\\Users\\fujitsu\\source\\repos\\Debtor.Core\\Debtor.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -88,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

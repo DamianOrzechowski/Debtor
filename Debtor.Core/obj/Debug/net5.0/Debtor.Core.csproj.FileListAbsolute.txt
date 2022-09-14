@@ -1,0 +1,12 @@
+C:\Users\fujitsu\source\repos\Debtor.Core\bin\Debug\net5.0\Debtor.Core.deps.json
+C:\Users\fujitsu\source\repos\Debtor.Core\bin\Debug\net5.0\Debtor.Core.dll
+C:\Users\fujitsu\source\repos\Debtor.Core\bin\Debug\net5.0\ref\Debtor.Core.dll
+C:\Users\fujitsu\source\repos\Debtor.Core\bin\Debug\net5.0\Debtor.Core.pdb
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.csproj.AssemblyReference.cache
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.AssemblyInfoInputs.cache
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.AssemblyInfo.cs
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.dll
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\ref\Debtor.Core.dll
+C:\Users\fujitsu\source\repos\Debtor.Core\obj\Debug\net5.0\Debtor.Core.pdb
